@@ -1,6 +1,6 @@
 # Panel Data Analysis: Board Gender Diversity and Firm Performance (Stata to Python)
 
-**Author:** Xiaoyang Ma
+**Author:** Xiaoyang Ma  
 **GitHub Profile:** https://github.com/Xiaoyang02-bot
 
 ## Academic Integrity and Project Context
